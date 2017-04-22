@@ -59,8 +59,8 @@
 <tspan x="10" y="906">  │ │ │ │ ├── isarray@1.0.0 </tspan>
 <tspan x="10" y="922">  │ │ │ │ └── string_decoder@1.0.0 </tspan>
 <tspan x="10" y="938">  │ │ │ └── typedarray@0.0.6 </tspan>
-<tspan x="10" y="954">  │ │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="970">  │ │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="954">  │ │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="970">  │ │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="986">  │ │ ├─┬ doctrine@1.5.0 </tspan>
 <tspan x="10" y="1002">  │ │ │ └── isarray@1.0.0 </tspan>
 <tspan x="10" y="1018">  │ │ ├─┬ es6-map@0.1.5 </tspan>
@@ -75,7 +75,7 @@
 <tspan x="10" y="1162">  │ │ │ └─┬ esrecurse@4.1.0 </tspan>
 <tspan x="10" y="1178">  │ │ │   ├── estraverse@4.1.1 </tspan>
 <tspan x="10" y="1194">  │ │ │   └── object-assign@4.1.1 </tspan>
-<tspan x="10" y="1210">  │ │ ├─┬ espree@3.4.1 </tspan>
+<tspan x="10" y="1210">  │ │ ├─┬ espree@3.4.2 </tspan>
 <tspan x="10" y="1226">  │ │ │ ├── acorn@5.0.3 </tspan>
 <tspan x="10" y="1242">  │ │ │ └─┬ acorn-jsx@3.0.1 </tspan>
 <tspan x="10" y="1258">  │ │ │   └── acorn@3.3.0 </tspan>
